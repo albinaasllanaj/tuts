@@ -27,7 +27,7 @@ $pizzas = mysqli_fetch_all($result, MYSQLI_ASSOC);  //MYSQLI_ASSOC TURNS IT INTO
 
     <?php include 'templates/header.php' ?>
 
-    <h4 class="center grey-text">Pizzas!</h4>
+    <h4 class="center grey-text">List of Pizzas!</h4>
 
     <div class="container">
         <div class="row">
