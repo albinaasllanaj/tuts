@@ -1,0 +1,10 @@
+{
+    "name": "albinasllanaj/tuts",
+    "description": "php project",
+    "autoload": {
+        "psr-4": {
+            "Albinasllanaj\\Tuts\\": "src/"
+        }
+    },
+    "require": {}
+}
